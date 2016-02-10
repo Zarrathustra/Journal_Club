@@ -25,4 +25,14 @@
 
 ## Proof ##
 
+### EP Moves Bidirected and LP Moves Unidirected ###
+
+### Increase in Frequency and Magnitude of Minus-end-Directed Force Generating Events on LPs ###
+
+The conclusion is achieved by the optical trapping experiment to measure forces.
+
+The histogram of the force of EP and LP moving along MT towards **plus** end has two peaks: 6pN and 12pN. The force of a kinesin is ~6pN. Thus, one or two kinesins function.
+
+The histogram of the force of EP and LP moving along MT towards **minus** end has peaks at 4pN, 6pN, 8pN, 10pN, 12pN, 14pN and 16pN. The force of a dynein is ~1pN, and dyneins are recruited in pairs. Thus, 4, 6, 8, 10, 12, 14, 16 dyneins function.
+
 ## Hypothesis ##
