@@ -21,7 +21,7 @@
 
 **Hypothesis 3**: Lipid rafts on the phagosome membrane could upregulate dynein-driven transport of phagosomes.
 
-## Conclusion ##
+## Hypothesis ##
 
 ## Proof ##
 
@@ -33,6 +33,22 @@ The conclusion is achieved by the optical trapping experiment to measure forces.
 
 The histogram of the force of EP and LP moving along MT towards **plus** end has two peaks: 6pN and 12pN. The force of a kinesin is ~6pN. Thus, one or two kinesins function.
 
-The histogram of the force of EP and LP moving along MT towards **minus** end has peaks at 4pN, 6pN, 8pN, 10pN, 12pN, 14pN and 16pN. The force of a dynein is ~1pN, and dyneins are recruited in pairs. Thus, 4, 6, 8, 10, 12, 14, 16 dyneins function.
+The histogram of the force of LP moving along MT towards **minus** end has peaks at 4pN, 6pN, 8pN, 10pN, 12pN, 14pN and 16pN. The force of a dynein is ~1pN, and dyneins are recruited in pairs. Thus, 4, 6, 8, 10, 12, 14, 16 dyneins function.
 
-## Hypothesis ##
+LP increases in frequency and magnitude of minus-end-directed force generating events.
+
+### Three Possible Explanations of Such Enhancement ###
+
+* Molecular properties and function of dynein is different on LPs compared to EPs.
+* There is more dynein is different on LPs compared to EPs.
+* Organization of dynein on the LP membrane is different from the EPs.
+
+### Rule out Explanation One and Two ##
+
+### Clustering of Dynein ###
+
+### Dynein, Flotillin and Rab7 Colocalize into Lipid Rafts on the Phagosome Membrane ###
+
+### Increase in Membrane Cholesterol on Phagosome with Maturation ###
+
+### Effect of Cholesterol Depletion on Late Phagosomes ###
