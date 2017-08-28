@@ -40,7 +40,7 @@ LP increases in frequency and magnitude of minus-end-directed force generating e
 ### Three Possible Explanations of Such Enhancement ###
 
 * Molecular properties and function of dynein is different on LPs compared to EPs.
-* There is more dynein is different on LPs compared to EPs.
+* There is more dynein on LPs compared to EPs.
 * Organization of dynein on the LP membrane is different from the EPs.
 
 ### Rule out Explanation One and Two ##
